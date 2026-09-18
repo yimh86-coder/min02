@@ -1,0 +1,6 @@
+{
+  "name": "아산시 사업 공유 및 통합 관리 플랫폼",
+  "description": "아산시 전 부서 및 읍·면·동 사업 정보 공유, AI 3줄 요약, 사업 중복 방지 및 통합 관리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
